@@ -49,8 +49,6 @@
 <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
-  <code><img width="10%" src=""></code>
-  <code><img width="10%" src=""></code>
   
 </div>
 
