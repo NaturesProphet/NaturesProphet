@@ -22,6 +22,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img width="10%" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-codebuild.svg"></code>
 <br />
 <code><img width="10%" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/sonarqube.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-ar21.svg"></code>
