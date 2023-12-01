@@ -3,6 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/garciadev/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mateusgarcialopes/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mateus.gigainfo@gmail.com)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=TikTok&logoColor=white)](https://www.tiktok.com/@mateusgarcia72)
 </h1>
 <h3 align="center">Backend Developer / Arquiteto de soluções</h3>
 <h4 align="center">Node.js | Nest.js | Express</h4>
