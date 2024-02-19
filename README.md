@@ -40,6 +40,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/rancher/rancher-ar21.svg"></code>
 <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
